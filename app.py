@@ -33,7 +33,7 @@ def book_conference_room(message):
     # build out the contents of the email message
     email_message = Mail(
         from_email="nolanprewit1@gmail.com",
-        to_emails = [requestor_email_address,'nolanprewit1@gmail.com'],
+        to_emails = [requestor_email_address,"automate.this@bettercloud.com"],
         subject="IT Automation Engineer Exercise - Parker Prewit",
         is_multiple=True,
         html_content = "Slack Username: <br>" + requestor_username + "<br><br> API Payload: <br>" + chat_response_string
