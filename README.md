@@ -1,4 +1,4 @@
-This is a Slack app built with the [Bolt for Python framework][2]. This simulates the utlization of a bot to automate the booking of requested conference rooms in an easy manner. 
+This is a Slack app built with the [Bolt for Python framework][2]. This simulates the utlization of a bot to automate the booking of requested conference room in an easy manner. 
 
 ## Running locally
 
