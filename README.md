@@ -8,7 +8,7 @@ This is a Slack app built with the [Bolt for Python framework][2]. This simulate
 # Replace with your signing secret, bot token, and sendgrid api key. NOTE: If you use Mac OS / Linux your commands may differ.
 $env:SLACK_BOT_TOKEN=<your-bot-token>
 $env:SLACK_APP_TOKEN=<your-signing-secret>
-$env:SENDGRID_API_KEY= 
+$env:SENDGRID_API_KEY=<sendgrid-api-key>
 ```
 
 ### 2. Setup your local project
